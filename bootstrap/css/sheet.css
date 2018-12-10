@@ -1,0 +1,41 @@
+
+
+
+.bgimage{
+  background-image: url('../../images/pic.jpg');
+  background-position:center center;
+  background-size: cover;
+  height: 200px;
+}
+#form{
+ overflow: auto;
+ border: 1px solid black;
+ width: 100px;
+ padding-left: 10px;
+ padding-right: 10px;
+ display:table;
+}
+
+
+.myimg{
+width: 150px ;
+height: 150px;
+margin: 0 auto;
+display: block;
+padding-bottom: 10px;
+}
+
+.items{
+  text-align:center;
+}
+
+div.wrap,
+div.wrap_2 {
+    float: none;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+div.wrap {
+    width:500px
+}
